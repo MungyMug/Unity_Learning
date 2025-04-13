@@ -1,11 +1,15 @@
+using Unity.Cinemachine;
 using UnityEngine;
 
 public class ObjectHit : MonoBehaviour
 {
-    private void OnCollisionEnter(Collision collision)
+    private void OnCollisionEnter(Collision other)
     {
-        
-        GetComponent<MeshRenderer>().material.color = Color.red;
-        Debug.Log("Collision Detected!");
+        if(other.gameObject.tag == "Player")
+        {
+            GetComponent<MeshRenderer>().material.color = Color.red;
+            gameObject.tag = "Hit";
+            Debug.Log("Collision Detected!");
+        }
     }
 }

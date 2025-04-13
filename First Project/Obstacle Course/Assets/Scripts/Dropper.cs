@@ -19,7 +19,7 @@ public class Dropper : MonoBehaviour
 
     public void timeElapsed()
     {
-        Debug.Log("Time passed: " + Time.time);
+        //Debug.Log("Time passed: " + Time.time);
     }
 
     public void DropObject()
