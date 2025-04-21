@@ -12,4 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4561a771d00ca244e8d945e081d40b5f, type: 3}
   m_Name: Question 2
   m_EditorClassIdentifier: 
-  question: Enter new question here
+  question: 2. What company created the PlayStation?
+  answers:
+  - A) Microsoft
+  - B) Nintendo
+  - C) Sony
+  - D) Sega
+  correctAnswerIndex: 2

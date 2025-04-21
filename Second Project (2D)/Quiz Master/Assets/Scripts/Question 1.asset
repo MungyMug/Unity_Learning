@@ -15,3 +15,9 @@ MonoBehaviour:
   question: '1. What does NPC stand for in games?
 
 '
+  answers:
+  - A) Non-Playable Character
+  - B) New Player Combatant
+  - C) National Player Club
+  - D) Next Phase Controller
+  correctAnswerIndex: 0
