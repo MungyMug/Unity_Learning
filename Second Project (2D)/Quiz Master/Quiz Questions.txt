@@ -1,0 +1,63 @@
+Game Questions
+
+
+1. What does NPC stand for in games?
+A) Non-Playable Character
+B) New Player Combatant
+C) National Player Club
+D) Next Phase Controller
+
+2. What company created the PlayStation?
+A) Microsoft
+B) Nintendo
+C) Sony
+D) Sega
+
+3. What does “GG” usually mean in games?
+A) Get Going
+B) Giant Goblin
+C) Good Game
+D) Game Gone
+
+4. What does RPG stands for?
+
+A) Role Playing Games
+B) Rocket Powered Games
+C) Rapid Punch Games
+D) Rabbit Programmed Games
+
+5. Which of the following is NOT a real game engine?
+A) Unreal Engine
+B) Frostbite
+C) Dreamweaver
+D) Unity
+
+6. What is grinding in games?
+A) Cooking in virtual kitchens
+B) Repeating tasks to gain rewards or experience
+C) Spinning a character in circles
+D) Speedrunning through a game
+
+7. What does FPS usually refer to in gaming?
+A) Frames Per Second
+B) Fast Projectile System
+C) First Person Shooter
+D) Both A and C
+
+8. What is lag in online gaming?
+A) A cheat code
+B) Delay between input and response due to network issues
+C) A level design error
+D) A character stuck in the map
+
+9. What is respawning?
+A) Changing game settings
+B) Dying in a game permanently
+C) Coming back to life after being defeated
+D) Running faster than usual
+
+10. Which of the following is a common control layout for PC games?
+A) WAXD
+B) WASD
+C) QWER
+D) POIU
